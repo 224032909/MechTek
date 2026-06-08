@@ -1,3 +1,4 @@
+//Making sure that the style and the logic of the dashboard is archieved//
 // worker dashboard //
 
 import React, { useState, useEffect } from 'react';
