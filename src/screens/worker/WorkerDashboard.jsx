@@ -6,7 +6,7 @@ import {
   View, Text, StyleSheet, SafeAreaView, StatusBar, Platform,
   TouchableOpacity, ActivityIndicator, Alert, RefreshControl,
   ScrollView, Switch,
-} from 'react-native';
+} from 'react-native'; 
 import { Ionicons, MaterialCommunityIcons } from '@expo/vector-icons';
 import { signOut } from 'firebase/auth';
 import { collection, query, where, onSnapshot, doc, getDoc } from 'firebase/firestore';
