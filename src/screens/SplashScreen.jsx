@@ -7,7 +7,7 @@ import {
 } from 'react-native';
 
 const YELLOW = '#F5C518';
-const TEAL   = '#00BFA5';
+const TEAL   = '#00BFA5'; 
 const DARK   = '#1A1A2E';
 
 const LETTERS = ['M', 'E', 'C', 'H', 'T', 'E', 'K'];
